@@ -1,0 +1,16 @@
+{
+  "name": "@bakkot-dumping-ground/zig-compile",
+  "version": "0.0.1",
+  "description": "eval c/cc/zig from javascript through the power of zig",
+  "repository": "https://github.com/bakkot/npm-zig",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "author": "bakkot",
+  "license": "MIT",
+  "//": "TODO optional dependencies",
+  "dependencies": {
+    "@bakkot-dumping-ground/zig-macos-x86": "0.0.1-pre"
+  }
+}

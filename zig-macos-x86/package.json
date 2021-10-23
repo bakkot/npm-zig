@@ -1,0 +1,17 @@
+{
+  "name": "@bakkot-dumping-ground/zig-macos-x86",
+  "version": "0.0.1-pre",
+  "description": "experimental distribution of zig for intel mac OS",
+  "repository": "https://github.com/bakkot/npm-zig",
+  "files": [
+    "zig"
+  ],
+  "author": "bakkot",
+  "license": "MIT",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ]
+}
